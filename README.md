@@ -76,6 +76,8 @@
 
 ###
 
+![snake gif](https://github.com/sakamotobergamini/sakamotobergamini/blob/output/github-snake-dark.svg)
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sakamotobergamini/" target="_blank">
@@ -97,4 +99,3 @@
 
 ###
 
-![snake gif](https://github.com/sakamotobergamini/sakamotobergamini/blob/output/github-snake-dark.svg)
