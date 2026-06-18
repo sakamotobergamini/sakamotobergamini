@@ -96,3 +96,5 @@
 <p align="left">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ###
+
+![snake gif](https://github.com/sakamotobergamini/sakamotobergamini/blob/output/github-snake-dark.svg)
